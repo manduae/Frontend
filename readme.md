@@ -7,7 +7,7 @@
 
 ## Bronnenlijst
 1. http://pac.fr
-2. -bron 2-
+2. W3 schools, via https://www.w3schools.com/
 3. -...-
 
 
