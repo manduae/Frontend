@@ -73,7 +73,7 @@
 
 **Je focus:** Surface plane
 
-**Je opdracht:** http://pac.fr/
+**Je opdracht:** https://www.lays.com/
 
 <p>
 
