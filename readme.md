@@ -83,7 +83,7 @@
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/smallscreen2.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/homescreen2.jpg" width="375px" alt="omschrijving van de pagina">
 
 <p/>
 
