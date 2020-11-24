@@ -84,4 +84,11 @@
 
 <p/>
 
+<p>
+  
+<img src="images/homescreen3.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/homescreen4.jpg" width="375px" alt="omschrijving van de pagina">
+
+<p/>
+
 
