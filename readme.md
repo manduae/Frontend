@@ -79,7 +79,7 @@
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/smallscreen1.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/homescreen1.jpg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
