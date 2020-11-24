@@ -75,10 +75,10 @@
 
 **Je opdracht:** https://www.lays.com/
 
-<p>
-
 **Screenshot(s) van de huidige pagina's:**
 
+<p>
+  
 <img src="images/homescreen1.jpg" width="375px" alt="omschrijving van de pagina">
 <img src="images/homescreen2.jpg" width="375px" alt="omschrijving van de pagina">
 
