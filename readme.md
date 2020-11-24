@@ -62,8 +62,11 @@
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<p>
+  
+<img src="images/breakdown.jpg" width="375px" alt="omschrijving van de pagina">
 
+<p/>
 
 
 ## Intake (week 1)
