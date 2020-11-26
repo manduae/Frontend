@@ -38,7 +38,7 @@
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Momenteel ben ik 
 
 **Screenshot(s):**
 
