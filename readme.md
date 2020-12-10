@@ -27,7 +27,8 @@
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Feedback:
+
 
 
 
