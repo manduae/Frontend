@@ -12,7 +12,7 @@
 4. https://css-tricks.com/snippets/css/complete-guide-grid/
 5. https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/
 6. https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/
-
+7. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
 
 ## Eindgesprek (week 7/8)
