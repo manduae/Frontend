@@ -30,7 +30,18 @@
 
 ## Voortgang 2 (week 5)
 
-Omdat ik me heb gerealiseerd dat ik later ben ingestapt en vervolgens overhaast een website heb gekozen plus proberen te maken. Ben ik bij mezelf tot de conclusie gekomen dat ik met een schone lei wilde beginnen. Ik heb mijn code tot dusver verwijderd en ben begonnen met een nieuwe code met daarin (althans geprobeerd) de behandelde stof tot en nu toe.
+Omdat ik me heb gerealiseerd dat ik later ben ingestapt en vervolgens overhaast een website heb gekozen plus proberen te maken. Ben ik bij mezelf tot de conclusie gekomen dat ik met een schone lei wilde beginnen. Ik heb mijn code tot dusver verwijderd en ben begonnen met een nieuwe code met daarin (althans geprobeerd) de behandelde stof tot en nu toe. De website: https://www.pringles.com/.
+
+Uiteindelijk ben ik deze week aan de slag gegaan met het plaatsen van alle content in de html en het toepassen van css op de tekst. Wat betreft de layout, heb ik geprobeerd om het zo veel mogelijk te laten overeenkomen met de website. 
+
+## Wat ging goed?
+
+Ondansk dat ik het lastig vond om de code van de site te lezen, kon ik alle content goed verzamalen en plaatsen. Het scheelde dat ik de basisvaardigheden van html/css nog wist. Ik was achteraf best tevreden over het resultaat.
+
+## Wat ging er minder goed?
+
+Het lettertype dat door Pringles wordt gebruikt is een betaald lettertype, ik heb daarom een soortgelijk lettertype moeten zoeken op GoogleFonts/Dafont, dit koste wat tijd. Er stonden behoorlijk wat producten op de pagina en deze waren allemaal verschillend qwa grootte, dit was beetje vervelend betreft layout.
+
 
 **Screenshot(s) van de huidige nieuwe pagina's:**
 
@@ -55,7 +66,7 @@ Omdat ik me heb gerealiseerd dat ik later ben ingestapt en vervolgens overhaast 
 
 ### Stand van zaken
 
-Momenteel ben ik 
+Momenteel ben ik volledig vastgelopen met het ontwerp.
 
 **Screenshot(s):**
 
