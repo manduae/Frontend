@@ -27,8 +27,16 @@
 
 ## Voortgang 3 (week 6)
 
-Feedback:
+Feedback Danny de Vries:
+Kijk goed naar je semantische correctheid m.b.t. het gebruik van Sections. Als je sections gebruikt moet je daarvoor H2 gebruiken. Pas dit toe en vind een semantisch correcte manier hiervoor. 
 
+Na dit gesprek ben ik gaan kijken naar alternatieve oplossingen. Het gebruik van 5x een Div is niet gebruikelijk. Ik heb ervoor gekozen om de <sections> weg te halen. Hierdoor bevinden de Details->Summary elementen zich onder elkaar. Dit heb ik echter wel onderverdeeld in de benaming: Uitklapbalk 1 t/m 5. Dit werkt voor mij overzichtelijk en is volgens mij Semantisch correct.
+
+Ik had de basis staan. Echter was mijn detail-pagina nog te karig. Ik wilde hieraan wat elementen toevoegen die ik heb opgepikt uit de les. Dit bevat het gebruik van het correct toevoegen van Grid, het vergroten van scale bij het hoveren van de image (.smaken li:hover {transform: scale(1.2);), Animaties (Ik heb een bewegende pringle-bus gemaakt bij het hoveren van de IMG en de achtergrond bewegend gemaakt (infaden) dit heb ik mede gerealiseerd door de bronnen waarbij ze ook het gebruik van @keyframes wat inhield het onderverdelen van 4 states in percentages zoals 25% en 50% en bij een bepaalde state een transform toe te passen op de image). Uiteraard ook uit bronnen overgenomen. 
+
+Als javascript element heb ik de oefening van de hamburger menu gepakt. Ik heb dit toegepast op beiden pagina's. Dit heb ik 1 keer geoefent en daarna nog vanuit de bron afgelezen hoe ik dit moest toepassen in mijn html en css. Hierin zat voor mij nog de meeste tijd aangezien de javacript taal bij mij aardig is weggezakt van vorige jaar. Ik heb dit vak wel gehaald toentertijd maar het was voor mij weer even wennen hoe je een event aanmaakt en dit logisch overziet in je hoofd. 
+
+Als laatste ben ik gaan kijken naar de kleinere elementen uit de website zoals het toevoegen van een subtiele underline van een uitklap menu op de homepagina. Dit soort kleine toevoegen laat de nagemaakte website meer aanvoelen als de originele website. 
 
 
 
