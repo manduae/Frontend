@@ -23,18 +23,18 @@
 
 <p>
   
-<img width="135" alt="homepagina eind1" src="https://user-images.githubusercontent.com/60371726/103558465-0089a580-4eb5-11eb-9e44-0d5ca2ea4f74.png">
+<img width="375" alt="homepagina eind1" src="https://user-images.githubusercontent.com/60371726/103558465-0089a580-4eb5-11eb-9e44-0d5ca2ea4f74.png">
 
-<img width="133" alt="Homepagina eind2" src="https://user-images.githubusercontent.com/60371726/103558473-03849600-4eb5-11eb-99a1-bed1b47e74dd.png">
+<img width="375" alt="Homepagina eind2" src="https://user-images.githubusercontent.com/60371726/103558473-03849600-4eb5-11eb-99a1-bed1b47e74dd.png">
 
 <p/>
 
 <p>
   
 
-<img width="134" alt="detail eind1" src="https://user-images.githubusercontent.com/60371726/103558475-04b5c300-4eb5-11eb-9498-58f3e4b05885.png">
+<img width="375" alt="detail eind1" src="https://user-images.githubusercontent.com/60371726/103558475-04b5c300-4eb5-11eb-9498-58f3e4b05885.png">
 
-<img width="133" alt="detail eind2" src="https://user-images.githubusercontent.com/60371726/103558476-05e6f000-4eb5-11eb-9e05-ffbe008ac396.png">
+<img width="375" alt="detail eind2" src="https://user-images.githubusercontent.com/60371726/103558476-05e6f000-4eb5-11eb-9e05-ffbe008ac396.png">
 
 <p/>
 
