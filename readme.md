@@ -38,14 +38,6 @@ Als javascript element heb ik de oefening van de hamburger menu gepakt. Ik heb d
 
 Als laatste ben ik gaan kijken naar de kleinere elementen uit de website zoals het toevoegen van een subtiele underline van een uitklap menu op de homepagina. Dit soort kleine toevoegen laat de nagemaakte website meer aanvoelen als de originele website. 
 
-<p>
-  
-
-
-
-<p/>
-
-
 
 ## Voortgang 2 (week 5)
 
