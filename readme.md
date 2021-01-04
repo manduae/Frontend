@@ -21,7 +21,20 @@
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<p>
+  
+<img src="images/homepagina.eind1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.eind2.png" width="375px" alt="omschrijving van de pagina">
+
+<p/>
+
+<p>
+  
+<img src="images/detail.eind1" width="375px" alt="omschrijving van de pagina">
+<img src="images/detail.eind2" width="375px" alt="omschrijving van de pagina">
+
+<p/>
+
 
 
 
