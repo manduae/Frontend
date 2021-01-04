@@ -23,15 +23,15 @@
 
 <p>
   
-<img src="images/homepagina.eind1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepagina.eind2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.eind1.png" width="375px" alt="home.eind1">
+<img src="images/homepagina.eind2.png" width="375px" alt="home.eind2">
 
 <p/>
 
 <p>
   
-<img src="images/detail.eind1" width="375px" alt="omschrijving van de pagina">
-<img src="images/detail.eind2" width="375px" alt="omschrijving van de pagina">
+<img src="images/detail.eind1" width="375px" alt="detail.eind1">
+<img src="images/detail.eind2" width="375px" alt="detail.eind2">
 
 <p/>
 
