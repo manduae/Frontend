@@ -40,8 +40,8 @@ Als laatste ben ik gaan kijken naar de kleinere elementen uit de website zoals h
 
 <p>
   
-<img src="images/homepagina.eind1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepagina.eind2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.eind1" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.eind2" width="375px" alt="omschrijving van de pagina">
 
 <p/>
 
