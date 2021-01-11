@@ -17,7 +17,11 @@
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Het was niet moeilijk om de huidige huisstijl van Pringles te verbeteren aangezien de websites een aantal error states had. Wanneer je vanuit de homepagina naar een subpagina wil, krijgt de origienele website een foutmelding. Dus wanneer ik doorhad hoe de html/css/javascript werkte, ging het wel wat vlotter in de uitwerking van mijn code. Verder ben ik prima tevreden over het eindresultaat aangezien mijn haalbare niveau niet per se "next level" is. Ik vind het een nuttig re-design en ten opzichte van de originele website is dit een verbetering van het origineel.
+
+Wat minder goed was is dat ik super veel problemen had met een aantal aspecten van javascript, Ik kreeg veel foutmeldingen omdat ik de javascript was vergeten te linken met het js. bestand. Toen ik eenmaal dit had opgelost was het nog een moeilijke zaak om de classes uit te roepen om deze vervolgens weer uit te voeren, dit was aardig verwaterd. Waar ik ook problemen mee had, was het gebruik van het aantal classes verminderen om het meer overzichtelijk te maken voor mijzelf.
+
+Ik heb gefocust op de minimale vereisten van een voldoende, omdat ik daarmee mezelf niet in de vingers zou snijden aangezien ik snel in de war raak als mijn code te ingewikkeld wordt. 
 
 **Screenshot(s):**
 
@@ -38,12 +42,10 @@
 
 <p/>
 
-
-
-
 ## Voortgang 3 (week 6)
 
 Feedback Danny de Vries:
+
 Kijk goed naar je semantische correctheid m.b.t. het gebruik van Sections. Als je sections gebruikt moet je daarvoor H2 gebruiken. Pas dit toe en vind een semantisch correcte manier hiervoor. 
 
 Na dit gesprek ben ik gaan kijken naar alternatieve oplossingen. Het gebruik van 5x een Div is niet gebruikelijk. Ik heb ervoor gekozen om de <sections> weg te halen. Hierdoor bevinden de Details->Summary elementen zich onder elkaar. Dit heb ik echter wel onderverdeeld in de benaming: Uitklapbalk 1 t/m 5. Dit werkt voor mij overzichtelijk en is volgens mij Semantisch correct.
@@ -54,10 +56,9 @@ Als javascript element heb ik de oefening van de hamburger menu gepakt. Ik heb d
 
 Als laatste ben ik gaan kijken naar de kleinere elementen uit de website zoals het toevoegen van een subtiele underline van een uitklap menu op de homepagina. Dit soort kleine toevoegen laat de nagemaakte website meer aanvoelen als de originele website. 
 
-
 ## Voortgang 2 (week 5)
 
-Omdat ik me heb gerealiseerd dat ik later ben ingestapt en vervolgens overhaast een website heb gekozen plus proberen te maken. Ben ik bij mezelf tot de conclusie gekomen dat ik met een schone lei wilde beginnen. Ik heb mijn code tot dusver verwijderd en ben begonnen met een nieuwe code met daarin de behandelde stof tot en nu toe. Ik ben net begonnen met het toepassen van het JS. element. Ik wil van de hamburger menu, een uitklap menu maken met daarin het icoon (hamburgermenu) veranderend in een kruisje zodra je erop tapt. Verder heb ik de html uitgewerkt van de landingspagina en met css al redelijk ver. Er ontbreekt echter nog wat subtiele animatie wat is toegepast op de de website: https://www.pringles.com/.
+Omdat ik me heb gerealiseerd dat ik later ben ingestapt en vervolgens overhaast een website heb gekozen plus proberen te maken. Ben ik bij mezelf tot de conclusie gekomen dat ik met een schone lei wilde beginnen. Mijn code was onlogisch en bevatte amper semantische correctheid. Daarom heb ik mijn code tot dusver verwijderd en ben begonnen met een nieuwe code met daarin de behandelde stof tot en nu toe. Ik ben net begonnen met het toepassen van het JS. element. Ik wil van de hamburger menu, een uitklap menu maken met daarin het icoon (hamburgermenu) veranderend in een kruisje zodra je erop tapt. Verder heb ik de html uitgewerkt van de landingspagina en met css al redelijk ver. Er ontbreekt echter nog wat subtiele animatie wat is toegepast op de de website: https://www.pringles.com/.
 
 ## Wat ging goed?
 
@@ -92,9 +93,6 @@ Het lettertype ontbreekt nog. Ik moet achterhalen welk lettertype het meest lijk
 <img src="images/pringles4.jpg" width="375px" alt="omschrijving van de pagina">
 
 <p/>
-
-
-
 
 ## Voortgang 1 (week 3)
 
