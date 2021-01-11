@@ -71,7 +71,8 @@ Het lettertype ontbreekt nog. Ik moet achterhalen welk lettertype het meest lijk
 
 <p>
   
-
+<img src="images/breakdown.pringles.1.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/breakdown.pringles.2.jpg" width="375px" alt="omschrijving van de pagina">
 
 <p/>
 
