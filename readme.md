@@ -71,7 +71,9 @@ Het lettertype ontbreekt nog. Ik moet achterhalen welk lettertype het meest lijk
 
 <p>
   
-<img 
+![breakdown pringles 1](https://user-images.githubusercontent.com/60371726/104179963-eac43500-540c-11eb-95e9-1fa5b9a6c102.jpg)
+
+![breakdown pringles 2](https://user-images.githubusercontent.com/60371726/104179975-ec8df880-540c-11eb-957c-3f1aaa36734c.jpg)
 
 <p/>
 
